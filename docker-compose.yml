@@ -4,4 +4,4 @@ services:
   nginx:
     build: .
     ports:
-      - "8000:4000"
+      - "3000:8050"
